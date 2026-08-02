@@ -1,6 +1,6 @@
 # Home Lab Part 2: Domain Login & Group Policy Management
 
-![Group Policy Management](images/Group_Policy.png)
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 *Group Policy Management Console overview*
 
 ## Introduction
