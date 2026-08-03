@@ -1,10 +1,10 @@
-# Home Lab Part 2: Domain Login & Group Policy Management
+# Home Lab 2. rész: Domain Login & Group Policy Management
 
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qfrwFwp.png" height="80%" width="100%" alt="Disk Sanitization Steps"/>
 *Group Policy Management Console overview*
 
 ## Introduction
-This guide continues our Active Directory lab setup, focusing on troubleshooting domain login issues and implementing Group Policy Objects (GPOs) for centralized management of our Windows 10 client (Client1).
+Ez az útmutató az Active Directory lab beállítását folytatja, a tartományi bejelentkezési problémák elhárítására, valamint a Windows 10-es kliens (Client1) központosított kezelését szolgáló Group Policy Object-ek(GPO) alkalmazására összpontosítva.
 
 ## Step 1 - Troubleshooting Domain Login Failure
 
