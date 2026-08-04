@@ -145,4 +145,4 @@ Ez az útmutató az Active Directory lab beállításait folytatja, a tartomány
   - Ellenőrizd a UNC-útvonal elérhetőségét
   - Részletes hibaüzenetekért tekintsd meg az <b>Event Viewer-t<b>
 
-Building on the foundation from Part 1 of our Active Directory Lab series.
+Az Active Directory-laborsorozatunk első részében lefektetett alapokra építve.
