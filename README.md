@@ -58,7 +58,7 @@ Ez az útmutató az Active Directory lab beállításait folytatja, a tartomány
 
 <img src="https://i.imgur.com/xUBIESZ.png" height="80%" width="100%" alt="GPO"/>
 
-### Shared Folder Setup
+### Megosztott mappa beállítása
 1. Mappa létrehozása: `C:\Wallpapers`
 2. Háttérkép hozzáadása: `Magyarország.jpg`
 3. Megosztás konfigurálása:
