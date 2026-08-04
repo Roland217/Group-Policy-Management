@@ -143,5 +143,5 @@ Ez az útmutató az Active Directory lab beállításait folytatja, a tartomány
   - Ellenőrizd mind a megosztási, mind a biztonsági jogosultságokat
 - **Nem telepíthető a szoftver?**
   - Ellenőrizd a UNC-útvonal elérhetőségét
-  - Részletes hibaüzenetekért tekintsd meg az <b>Event Viewer-t<b>
+  - Részletes hibaüzenetekért nézd meg az <b>Event Viewer-t<b>
   
