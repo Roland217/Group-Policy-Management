@@ -47,7 +47,7 @@ Ez az útmutató az Active Directory lab beállításait folytatja, a tartomány
 3. **Features > Group Policy Management**
 4. **Install**
 
-### Create Organizational Unit
+### Organizational Unit létrehozása
 1. **Group Policy Management Console**
 2. domain → **New Organizational Unit**
 3. **TestComputers**
