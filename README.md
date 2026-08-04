@@ -87,7 +87,7 @@ Ez az útmutató az Active Directory lab beállításait folytatja, a tartomány
 ## 4. lépés - USB-korlátozási házirend bevezetése
 
 ### GPO-konfiguráció
-1. Létrehozott új GPO :**Disable USB Storage**
+1. Létrehozott új GPO: **Disable USB Storage**
 2. Konfiguráció:
    - Computer Configuration > Policies > Admin Templates > System > Removable Storage Access
    - Enabled:
@@ -113,7 +113,7 @@ Ez az útmutató az Active Directory lab beállításait folytatja, a tartomány
      - <b>Authenticated Users<b>
 
 ### GPO-implementáció
-1. Új GPO: **Deploy Chrome**
+1. Létrehozott új GPO: **Deploy Chrome**
 2. Konfiguráció:
    - Computer Configuration > Policies > Software Settings > Software Installation
    - Csomag hozzáadva: `\\DC\Software\Chrome\GoogleChromeStandaloneEnterprise64.msi`
@@ -125,9 +125,9 @@ Ez az útmutató az Active Directory lab beállításait folytatja, a tartomány
 
 <img src="https://i.imgur.com/9aNjKj0.png" height="80%" width="100%" alt="GPO"/>
 
-## 6. lépés - Jelszó Policy konfiguráció
+## 6. lépés - Jelszó Policy Létrehozása
 
-1. **Default Domain Policy**
+1. Létrehozott új GPO: **Password Policy** 
 2. Konfiguráció:
    - Computer Configuration > Policies > Windows Settings > Security Settings > Account Policies > Password Policy
 
@@ -144,5 +144,4 @@ Ez az útmutató az Active Directory lab beállításait folytatja, a tartomány
 - **Nem telepíthető a szoftver?**
   - Ellenőrizd a UNC-útvonal elérhetőségét
   - Részletes hibaüzenetekért tekintsd meg az <b>Event Viewer-t<b>
-
-Az Active Directory-laborsorozatunk első részében lefektetett alapokra építve.
+  
